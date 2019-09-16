@@ -1,0 +1,33 @@
+.top-div{
+    display: flex;
+    align-items: center;
+    color: #fff;
+    justify-content: space-between;
+    padding: 0 10px;
+    background-color: #108ee9;
+    flex: 0 0 50px;
+}
+.search{
+    background-color: #fff;
+    height: 35px;
+    width:70%;
+    color: #888;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    border-radius: 20px;
+}
+.search label{
+    margin-left:10px;
+}
+.house-box{
+    margin: 20px 0;
+}
+.house-box>h3{
+    background-color: #fff;
+    margin: 0;
+    color:#108ee9;
+    padding-left: 20px;
+    padding-top:10px;
+    font-size: 16px;
+}

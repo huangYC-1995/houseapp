@@ -1,0 +1,11 @@
+.city{
+    margin: 0;
+    background-color: #eee;
+    line-height: 30px;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 0 20px;
+}
+.item>p:last-child{
+    border:none !important;
+}
